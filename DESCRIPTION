@@ -1,6 +1,6 @@
 Package: reptiledb.data
 Title: Reptile Database Data
-Version: 0.0.0.1
+Version: 0.0.0.2
 Authors@R: c(
     person(
         given = "Paul Efren",
@@ -15,15 +15,15 @@ Depends: R (>= 4.1.0)
 Suggests: testthat (>= 3.0.0), knitr, rmarkdown
 Config/testthat/edition: 3
 Encoding: UTF-8
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 LazyData: true
 URL: https://github.com/PaulESantos/reptiledb.data
 BugReports: https://github.com/PaulESantos/reptiledb.data/issues
-Imports: httr, rvest, stringr, tibble
+Imports: cli, httr, rvest, stringr
 Maintainer: Paul Efren Santos Andrade <paulefrens@gmail.com>
 NeedsCompilation: no
-Packaged: 2025-07-01 01:55:08 UTC; PC
+Packaged: 2026-01-07 03:24:35 UTC; PC
 Author: Paul Efren Santos Andrade [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-6635-0375>)
 Repository: CRAN
-Date/Publication: 2025-07-05 15:40:02 UTC
+Date/Publication: 2026-01-08 23:30:02 UTC
